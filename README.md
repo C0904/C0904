@@ -15,12 +15,10 @@
 <p><img src="https://img.shields.io/badge/Docker-gainsboro?style=flat&logo=Docker&logoColor=blue"/>&nbsp;<img src="https://img.shields.io/badge/AWS-gainsboro?style=flat&logo=Amazon&logoColor=orange"/></p>
 
 #
-![KCH6937's github stats](https://github-readme-stats.vercel.app/api?username=KCH6937&show_icons=true&theme=cobalt)
+![KCH6937's github stats](https://github-readme-stats.vercel.app/api?username=C0904&show_icons=true&theme=cobalt)
 
 #
 <h3>📩 Contact 📩</h3>
-  <a href="mailto:adasddasd12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EBECF0?style=for-the-badge&logo=Gmail&logoColor=red">
-  <a href="https://2on3.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-000000?style=for-the-badge&logo=github&logoColor=white">
-  
+  <a href="mailto:cabinkid07@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EBECF0?style=for-the-badge&logo=Gmail&logoColor=red">
 </div>
 
